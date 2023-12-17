@@ -34,8 +34,8 @@
       <td><strong>banco de dados</strong></td>
       <td>
         <img height="25px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="75px"/>
+          <img height="25px" src="https://camo.githubusercontent.com/752674849414fde78ee5c72f1c9275c6511a51590f967c212ab67f34b192c0a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d626c61636b" width="115px" data-canonical-src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=black" style="max-width: 100%;">
       </td>
-    <img height="25px" src="https://camo.githubusercontent.com/752674849414fde78ee5c72f1c9275c6511a51590f967c212ab67f34b192c0a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d626c61636b" width="115px" data-canonical-src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=black" style="max-width: 100%;">
     </tr>
     <tr>
       <td><strong>desenvolvimento</strong></td>
