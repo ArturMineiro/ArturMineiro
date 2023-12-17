@@ -31,43 +31,20 @@
         <img height="25px" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" width="90px"/>
       </td>
     </tr>
-    <tr>
-      <td><strong>orm</strong></td>
-      <td>
-        <img height="25px" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" width="100px"/>
-      </td>
-    </tr>
-    <tr>
       <td><strong>banco de dados</strong></td>
       <td>
         <img height="25px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="75px"/>
       </td>
-    </tr>
-    <tr>
-      <td><strong>testes</strong></td>
-      <td>
-        <img height="25px" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" width="65px"/>
-        <img height="25px" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" width="135px"/>
-        <img height="25px" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" width="75px"/>
-      </td>
+    <img height="25px" src="https://camo.githubusercontent.com/752674849414fde78ee5c72f1c9275c6511a51590f967c212ab67f34b192c0a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d626c61636b" width="115px" data-canonical-src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=black" style="max-width: 100%;">
     </tr>
     <tr>
       <td><strong>desenvolvimento</strong></td>
       <td>
         <img height="25px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="160px"/>
-        <img height="25px" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" width="120px"/>
-        <img height="25px" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white" width="105px"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>conteinerização</strong></td>
-      <td>
-        <img height="25px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="85px"/>
       </td>
     </tr>
   </table>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturMineiro&theme=dark&hide=blade,html,css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👥 Contato
 <p>📧 Email: arturmineiro2@homtail.com</p>
