@@ -4,7 +4,7 @@
   <img src="https://cdn.pixabay.com/photo/2018/05/08/08/44/artificial-intelligence-3382507_1280.jpg" width="350" align="right" style="margin-left: 50px;">
   <p align="left">
     Meu nome é Artur e tenho 21 anos. <br> <br>
-    - 👨‍💻 Sou um Desenvolvedor em formação <br> <br>
+    - 👨‍💻 Sou um Desenvolvedor em formação, atualmente cursando Analise e desenvolvimento de sistemas na universidade Veiga de Almeida. <br> <br>
    
   </p>
 </div>
