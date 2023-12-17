@@ -5,9 +5,6 @@
   <p align="left">
     Meu nome é Artur e tenho 21 anos. <br> <br>
     - 👨‍💻 Sou um Desenvolvedor em formação <br> <br>
-    - 📽️ Além da programação, sou apaixonado por animais e games <br> <br>
-    - 🚀 No momento estou trabalhando como Desenvolvedor Web utilizando Angular e PHP/Laravel, e tentando desenvolver alguns projetos pessoais nas horas vagas
-    <br> <br> <br>
    
   </p>
 </div>
@@ -23,9 +20,7 @@
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width="75px" height="25px"/>
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25px" width="65px">
         <img height="25px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="105px"/>
-        <img height="25px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="80px"/>
         <img height="25px" src="https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white" width="85px"/>
-        <img height="25px" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" width="75px"/>
       </td>
     </tr>
     <tr>
