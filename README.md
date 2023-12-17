@@ -1,7 +1,7 @@
 ### Oi 👋 
 
 <div>
-  <img src="https://5e1cb6e80bfc0e143812d3e0.redesign.static-01.com/l/images/4c4a27d32a589c176984a7b1bbae80f50d43775f.gif" width="350" align="right" style="margin-left: 50px;">
+  <img src="https://cdn.pixabay.com/photo/2018/05/08/08/44/artificial-intelligence-3382507_1280.jpg" width="350" align="right" style="margin-left: 50px;">
   <p align="left">
     Meu nome é Artur e tenho 21 anos. <br> <br>
     - 👨‍💻 Sou um Desenvolvedor em formação <br> <br>
