@@ -1,7 +1,7 @@
 ### Oi 👋 
 
 <div>
-  <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47z2pgmv6xdwhmxml25c3bb884l4vq5lwbyb3nm6sq&rid=giphy.gif&ct=s" width="350" align="right" style="margin-left: 50px;">
+  <img src="https://5e1cb6e80bfc0e143812d3e0.redesign.static-01.com/l/images/4c4a27d32a589c176984a7b1bbae80f50d43775f.gif" width="350" align="right" style="margin-left: 50px;">
   <p align="left">
     Meu nome é Artur e tenho 21 anos. <br> <br>
     - 👨‍💻 Sou um Desenvolvedor em formação <br> <br>
