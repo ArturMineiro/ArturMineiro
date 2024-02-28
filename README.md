@@ -54,6 +54,7 @@
   </tr>
   </table>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artur-mineiro&theme=dark&hide=blade,html,css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👥 Contato
 <p>📧 Email: arturmineiro2@homtail.com</p>
