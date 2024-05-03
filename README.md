@@ -27,7 +27,6 @@
     <tr>
       <td><strong>backend</strong></td>
       <td>
-       
         <img height="25px" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" width="65px"/>
         <img height="25px" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" width="90px"/>
       </td>
