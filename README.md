@@ -41,7 +41,6 @@
       <td><strong>desenvolvimento</strong></td>
       <td>
         <img height="25px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="160px"/>
-        <img src="https://camo.githubusercontent.com/3ba85b7e0450f08dc9c3d6c9b557722493eec4a833a3282d05bc76617560343b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d77686974653f7374796c653d666f722d7468652d6261646765266c6f676f3d476974" data-canonical-src="https://img.shields.io/badge/-Git-white?style=for-the-badge&amp;logo=Git" style="max-width: 100%;">
         <img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width: 100%;">
       </td>
     </tr>
