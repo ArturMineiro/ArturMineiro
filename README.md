@@ -38,7 +38,7 @@
       </td>
     </tr>
     <tr>
-      <td><strong>desenvolvimento</strong></td>
+      <td><strong>Desenvolvimento</strong></td>
       <td>
         <img height="25px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="160px"/>
         <img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width: 100%;">
